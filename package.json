@@ -12,7 +12,7 @@
     "@types/jasmine": "^2.8.2",
     "jasmine": "^2.8.0",
     "jasmine-core": "^2.8.0",
-    "karma": "^1.7.0",
+    "karma": "^2.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-jasmine": "^1.1.0",
     "karma-jasmine-html-reporter": "^0.2.2",
@@ -20,6 +20,6 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "karma-webpack": "^2.0.3",
     "typescript": "^2.6.1",
-    "webpack": "^1.15.0"
+    "webpack": "^3.10.0"
   }
 }
